@@ -133,7 +133,7 @@
    - 各重要感度変数について、営業利益がゼロとなる水準（損益分岐点）を算出する
    - 「販売数量が現在のベースケースから何%減少すると損益分岐点に達するか」= 安全余裕率（Margin of Safety）
    - 複数変数が同時に悪化した場合の損益分岐点も算出する（二変数の等利益線分析）
-   - 損益分岐点の算出において、固定費・変動費の分類はカテゴリ2のコスト構造の分解の結果を参照する
+   - 損益分岐点の算出において、固定費・変動費の分類は Section 02 の[コスト構造の分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)の結果を参照する
 
 3. **モンテカルロシミュレーション（任意・高度な分析）**
    - 各変数に確率分布を設定し、ランダムサンプリングにより目的変数の確率分布を算出する
@@ -198,13 +198,13 @@
 
 ## 関連文書
 
-- [定期予測の更新](rolling-forecast-update.md)（前工程: ベースケースのフォーキャストとドライバ前提）
-- [リスク・機会の見える化](risk-opportunity-visualization.md)（前工程: リスク・機会レジスターとトルネードチャートの連動）
+- [定期予測の更新](../1.3-ローリング予測の更新/rolling-forecast-update.md)（前工程: ベースケースのフォーキャストとドライバ前提）
+- [リスク・機会の見える化](../1.3-ローリング予測の更新/risk-opportunity-visualization.md)（前工程: リスク・機会レジスターとトルネードチャートの連動）
 - [複数シナリオの策定](multi-scenario-development.md)（並行/前工程: シナリオ前提の変数別検証）
-- [事業シナリオの設計](business-scenario-design.md)（関連: 中長期の戦略変数に対する感度分析）
-- [目標KPI・資本配分方針の定義](target-kpi-capital-allocation.md)（参照: KPI目標に対する感度の影響評価）
-- [コスト構造の分解](../02-measure-explain/cost-structure-decomposition.md)（参照: 固変分解の結果が損益分岐点分析の基盤）
-- [比較軸の選定と差異算出](../02-measure-explain/variance-calculation.md)（後続: 感度テスト変数の実績モニタリング）
-- [KPI階層の構造化](../02-measure-explain/kpi-hierarchy-structuring.md)（参照: KPI間の因果関係が感度の波及経路を示す）
-- [通期着地への影響評価](../02-measure-explain/full-year-impact-assessment.md)（参照: 感度変数の通期影響をランレート換算で評価）
-- [可視化の標準化](../02-measure-explain/visualization-standardization.md)（参照: トルネードチャート・データテーブルの表示基準）
+- [事業シナリオの設計](../1.1-中長期計画の策定/business-scenario-design.md)（関連: 中長期の戦略変数に対する感度分析）
+- [目標KPI・資本配分方針の定義](../1.1-中長期計画の策定/target-kpi-capital-allocation.md)（参照: KPI目標に対する感度の影響評価）
+- [コスト構造の分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（参照: 固変分解の結果が損益分岐点分析の基盤）
+- [比較軸の選定と差異算出](../../02-measure-explain/2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（後続: 感度テスト変数の実績モニタリング）
+- [KPI階層の構造化](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.1-KPIの定義と目標設定/kpi-hierarchy-structuring.md)（参照: KPI間の因果関係が感度の波及経路を示す）
+- [通期着地への影響評価](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（参照: 感度変数の通期影響をランレート換算で評価）
+- [可視化の標準化](../../02-measure-explain/2.4-経営レポートの作成・発信/2.4.2-レポートの品質管理と標準化/visualization-standardization.md)（参照: トルネードチャート・データテーブルの表示基準）

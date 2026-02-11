@@ -181,12 +181,12 @@
 
 ## 関連文書
 
-- [比較軸の選定と差異算出](variance-calculation.md)（前工程: 差異データの算出）
-- [重要性の判定と深掘り対象の絞り込み](materiality-screening.md)（前工程: 重要性判定済みの差異データ）
+- [比較軸の選定と差異算出](../2.2.1-差異の算出とスクリーニング/variance-calculation.md)（前工程: 差異データの算出）
+- [重要性の判定と深掘り対象の絞り込み](../2.2.1-差異の算出とスクリーニング/materiality-screening.md)（前工程: 重要性判定済みの差異データ）
 - [数量・価格・ミックスの分解](pvm-decomposition.md)（後工程: 恒常為替レートベースでの売上分解）
 - [コスト構造の分解](cost-structure-decomposition.md)（後工程: 恒常為替レートベースでのコスト分解）
 - [セグメント軸による分解](segment-decomposition.md)（後工程: ビジネス次元での切り分け）
 - [複合要因の識別と分離](compound-factors.md)（後工程: 為替と事業要因の交互作用処理）
-- [ドライバの分類](driver-classification.md)（後工程: 差異ドライバの分類）
-- [性質の判別](driver-nature-assessment.md)（後工程: 一過性/構造的、コントロール可否の判定）
-- [通期着地への影響評価](full-year-impact-assessment.md)（後工程: ランレート換算と通期影響の定量化）
+- [ドライバの分類](../2.2.3-ドライバの特定と影響度の評価/driver-classification.md)（後工程: 差異ドライバの分類）
+- [性質の判別](../2.2.3-ドライバの特定と影響度の評価/driver-nature-assessment.md)（後工程: 一過性/構造的、コントロール可否の判定）
+- [通期着地への影響評価](../2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（後工程: ランレート換算と通期影響の定量化）

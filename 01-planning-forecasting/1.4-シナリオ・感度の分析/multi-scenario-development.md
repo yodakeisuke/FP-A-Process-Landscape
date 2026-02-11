@@ -12,6 +12,7 @@
 - **前提**: 定期予測の更新でベースケースが確定し、リスク・機会の見える化でリスク・機会レジスターが整備されている
 - **後続**: 策定されたシナリオは感度テストの実施で変数別に検証され、経営の意思決定（投資判断、コンティンジェンシープラン策定）のインプットとなる
 - **対象部門**: FP&A部門（実行主体）、経営企画部門（戦略シナリオとの統合）、事業部門（シナリオ前提の検証）
+- **棲み分け**: 本SOPはフォーキャスト起点の短中期シナリオ（四半期更新）を対象とする。中期計画策定時（3-5年サイクル）のシナリオ設計は [事業シナリオの設計](../1.1-中長期計画の策定/business-scenario-design.md) を参照
 
 ## 責任者
 
@@ -193,12 +194,12 @@
 
 ## 関連文書
 
-- [定期予測の更新](rolling-forecast-update.md)（前工程: ベースケースのフォーキャスト）
-- [リスク・機会の見える化](risk-opportunity-visualization.md)（前工程: シナリオドライバの識別元）
+- [定期予測の更新](../1.3-ローリング予測の更新/rolling-forecast-update.md)（前工程: ベースケースのフォーキャスト）
+- [リスク・機会の見える化](../1.3-ローリング予測の更新/risk-opportunity-visualization.md)（前工程: シナリオドライバの識別元）
 - [感度テストの実施](sensitivity-testing.md)（後続: シナリオの主要変数に対する感度定量化）
-- [事業シナリオの設計](business-scenario-design.md)（関連: 中長期の戦略シナリオとの整合）
-- [目標KPI・資本配分方針の定義](target-kpi-capital-allocation.md)（参照: シナリオ別のKPI目標との乖離評価）
-- [予算の構築](budget-construction.md)（参照: 予算との比較によるシナリオの位置づけ確認）
-- [比較軸の選定と差異算出](../02-measure-explain/variance-calculation.md)（後続: シナリオ対実績の差異分析）
-- [通期着地への影響評価](../02-measure-explain/full-year-impact-assessment.md)（参照: シナリオ別の通期着地見込み）
-- [コスト構造の分解](../02-measure-explain/cost-structure-decomposition.md)（参照: 固変分解の結果がシナリオの損益分岐点分析に活用される）
+- [事業シナリオの設計](../1.1-中長期計画の策定/business-scenario-design.md)（関連: 中長期の戦略シナリオとの整合）
+- [目標KPI・資本配分方針の定義](../1.1-中長期計画の策定/target-kpi-capital-allocation.md)（参照: シナリオ別のKPI目標との乖離評価）
+- [予算の構築](../1.2-年度予算の編成/budget-construction.md)（参照: 予算との比較によるシナリオの位置づけ確認）
+- [比較軸の選定と差異算出](../../02-measure-explain/2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（後続: シナリオ対実績の差異分析）
+- [通期着地への影響評価](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（参照: シナリオ別の通期着地見込み）
+- [コスト構造の分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（参照: 固変分解の結果がシナリオの損益分岐点分析に活用される）

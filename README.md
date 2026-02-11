@@ -81,7 +81,7 @@ FP&A
    ├─ 3.1 投資・資本配分の評価
    │  ├─ 投資案件の評価（NPV/IRR、回収期間、リスク調整）
    │  └─ ゲート管理の運営（継続/中止判断、条件変更）
-   ├─ 3.2 収益施策の試算・支援
+   ├─ 3.2 収益施策の試算・支援 ※SOP未作成
    │  ├─ 価格・値引き・条件変更のインパクト試算
    │  └─ 例外判断の支援（ルール整備、前例参照、承認プロセス）
    ├─ 3.3 コスト最適化・資源配分の分析
@@ -91,6 +91,29 @@ FP&A
       ├─ 資金繰り予測の作成（入金/出金、支払条件管理）
       └─ ストレス時の優先順位策定（守る支出・止める支出）
 ```
+
+### セクション間のデータフロー
+
+```
+Section 01（計画策定）
+  予算・KPI目標・シナリオ前提
+        │
+        ▼
+Section 02（業績の測定と説明）
+  実績データ ─→ 予実差異分析 ─→ ドライバ特定 ─→ 経営レポート
+  KPIモニタリング（並行稼働）
+        │
+        ▼
+Section 03（打ち手の評価と提言）
+  差異分析結果・ドライバ情報を活用した投資判断・コスト最適化・資金管理
+        │
+        ▼
+Section 01 へフィードバック（ローリング予測の更新、次年度計画への反映）
+```
+
+- Section 01 で策定した予算・KPI目標が Section 02 の予実管理の基準となる
+- Section 02 の差異分析・ドライバ特定の結果が Section 03 の意思決定支援のインプットとなる
+- Section 03 の施策評価結果は Section 01 のローリング予測・次年度計画にフィードバックされる
 
 ### プロセスフローの補足
 
@@ -103,13 +126,26 @@ FP&A
 
 ### [01. 戦略と整合した計画策定](01-planning-forecasting/)
 
+#### 運用ガイド：年次/四半期/随時の実行タイミング
+
+| カテゴリ | 説明 | 対象SOP |
+|---------|------|---------|
+| 年次（計画策定期） | 年度予算・中期計画の策定サイクルで実行 | business-scenario-design, target-kpi-capital-allocation, budget-construction, allocation-rules-account-structure, budget-consensus-building |
+| 四半期 | 四半期ごとのフォーキャスト更新・シナリオ見直し | rolling-forecast-update（深掘り版）, risk-opportunity-visualization（網羅的見直し）, multi-scenario-development, sensitivity-testing |
+| 月次 | 月次のフォーキャスト差分更新 | rolling-forecast-update（差分更新版）, risk-opportunity-visualization（差分更新） |
+
+#### 隣接業務のインターフェース（SOPスコープ外）
+
+- **経営企画との計画策定連携**: 中期経営計画の策定は経営企画部門が主導し、FP&Aは財務モデリング・シナリオ分析を提供する
+- **IR部門との開示計画連携**: ガイダンス設定はIR部門と協業。FP&Aはフォーキャストの精度・レンジ情報を提供する
+
 ### [02. 業績の測定と説明](02-measure-explain/)
 
 #### 運用ガイド：月次/四半期/年次の実行深度マトリクス
 
 | カテゴリ | 説明 | 対象SOP |
 |---------|------|---------|
-| 月次必須 | 毎月の締めサイクルで必ず実行 | 2.1 全9本、variance-calculation, materiality-screening, pvm-decomposition, cost-structure-decomposition, fx-impact-isolation, dashboard-operations, executive-report-distribution, bu-performance-package |
+| 月次必須 | 毎月の締めサイクルで必ず実行 | 2.1 全9本、variance-calculation, materiality-screening, pvm-decomposition, cost-structure-decomposition, fx-isolation, dashboard-operations, executive-report-distribution, bu-performance-package |
 | 月次推奨 | 月次で実行が望ましいが簡易版で可 | segment-decomposition, compound-factors, driver-classification, driver-nature-assessment, full-year-impact-assessment, variance-summary-integration, performance-narrative, forward-looking-information, threshold-alert-response, flash-report-issuance, numerical-consistency-check |
 | 四半期 | 四半期レビューで深掘り実施 | cost-structure-decomposition ステップ4（貢献利益階層分析）、kpi-periodic-review, management-review-facilitation |
 | 年次/随時 | 年度計画時または変更発生時 | kpi-selection-definition, kpi-target-threshold-setting, kpi-hierarchy-structuring, kpi-retirement-decision, terminology-standardization, visualization-standardization, feedback-collection-improvement, ir-disclosure-support, comparability-assurance |
@@ -121,3 +157,18 @@ FP&A
 - **レポーティング自動化**: 定型レポートの自動生成・配信の仕組み構築。2.4 の効率化に直結するが、IT部門との協業領域
 
 ### [03. 打ち手の評価と提言](03-evaluate-recommend/)
+
+#### 運用ガイド：随時/定期の実行タイミング
+
+| カテゴリ | 説明 | 対象SOP |
+|---------|------|---------|
+| 案件発生時 | 投資案件の起案・審査時に実行 | investment-evaluation, gate-management |
+| 月次/四半期 | 定期的なコスト・資源の見直し | opex-optimization（月次モニタリング＋四半期深掘り）, cash-flow-forecasting（月次更新） |
+| 年次（計画策定期） | 年度計画に連動した人員・資源計画 | headcount-planning |
+| 有事 | 業績悪化・資金逼迫時に発動 | stress-priority-planning |
+
+#### 隣接業務のインターフェース（SOPスコープ外）
+
+- **3.2 収益施策の試算・支援（未作成）**: 価格変更・値引き・条件変更のインパクト試算、例外判断の支援。FP&Aの中核業務であり、既存SOPからの参照が多い。優先的に作成が必要
+- **M&A / 事業開発**: 買収・売却・JVの財務評価はFP&Aが関与するが、投資評価SOPのスコープを超える専門領域
+- **HR部門との人員計画連携**: headcount-planningはFP&Aの財務視点からの分析を扱い、採用・異動の実行判断はHR/ラインマネジメントの領域

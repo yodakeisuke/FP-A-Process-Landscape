@@ -171,6 +171,6 @@
 
 - [ドライバの分類](driver-classification.md)（前工程: 実行要因・外部要因・計画要因への分類結果）
 - [通期着地への影響評価](full-year-impact-assessment.md)（後続工程: ランレート換算、相殺差異・連鎖影響の識別）
-- [コスト構造の分解](cost-structure-decomposition.md)（上流工程: コスト側の要因分解結果）
-- [数量・価格・ミックスの分解](pvm-decomposition.md)（上流工程: 売上側の要因分解結果）
-- [複合要因の識別と分離](compound-factors.md)（上流工程: 交互作用・相殺差異の処理結果）
+- [コスト構造の分解](../2.2.2-差異の要因分解/cost-structure-decomposition.md)（上流工程: コスト側の要因分解結果）
+- [数量・価格・ミックスの分解](../2.2.2-差異の要因分解/pvm-decomposition.md)（上流工程: 売上側の要因分解結果）
+- [複合要因の識別と分離](../2.2.2-差異の要因分解/compound-factors.md)（上流工程: 交互作用・相殺差異の処理結果）

@@ -85,6 +85,7 @@
 ストレス対応は「遅すぎる」ことが最大のリスクである。業績悪化の兆候を早期に検知し、定量的な基準に基づいて対応レベルを判定する仕組みが必要。
 
 1. **トリガー条件を定義する**
+   - 以下の数値は目安であり、自社の規模・業種・成長ステージに合わせてカスタマイズすること
    - 財務指標トリガー:
      - 売上が予算比で15%以上下回る（2ヶ月連続）
      - 営業利益率が予算から5ポイント以上悪化
@@ -180,12 +181,12 @@
 
 ## 関連文書
 
-- [OPEX最適化の分析](opex-optimization.md)（平時のコスト最適化。本SOPは有事の対応）
-- [人員計画の策定](headcount-planning.md)（採用凍結・例外処理の詳細プロセス）
+- [OPEX最適化の分析](../3.3-コスト最適化・資源配分の分析/opex-optimization.md)（平時のコスト最適化。本SOPは有事の対応）
+- [人員計画の策定](../3.3-コスト最適化・資源配分の分析/headcount-planning.md)（採用凍結・例外処理の詳細プロセス）
 - [資金繰り予測の作成](cash-flow-forecasting.md)（キャッシュフロー予測。ランウェイの算出元）
-- [投資案件の評価](investment-evaluation.md)（投資の凍結・中止判断のフレームワーク）
-- [ゲート管理の運営](gate-management.md)（進行中プロジェクトの中止判断）
-- [例外判断の支援](exception-decision-support.md)（ストレス時の例外処理ルール）
-- [通期着地への影響評価](../02-measure-explain/full-year-impact-assessment.md)（削減施策の通期財務影響の算出）
-- [フラッシュレポートの発行](../02-measure-explain/flash-report-issuance.md)（ストレス時の速報体制）
-- [閾値超過時のアラート対応](../02-measure-explain/threshold-alert-response.md)（トリガー条件の検知元）
+- [投資案件の評価](../3.1-投資・資本配分の評価/investment-evaluation.md)（投資の凍結・中止判断のフレームワーク）
+- [ゲート管理の運営](../3.1-投資・資本配分の評価/gate-management.md)（進行中プロジェクトの中止判断）
+- [例外判断の支援](exception-decision-support.md)（ストレス時の例外処理ルール） <!-- 未作成: 3.2 収益施策の試算・支援 -->
+- [通期着地への影響評価](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（削減施策の通期財務影響の算出）
+- [フラッシュレポートの発行](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.2-定点観測と異常検知/flash-report-issuance.md)（ストレス時の速報体制）
+- [閾値超過時のアラート対応](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.2-定点観測と異常検知/threshold-alert-response.md)（トリガー条件の検知元）

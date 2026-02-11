@@ -211,10 +211,10 @@
 ## 関連文書
 
 - [予算の構築](budget-construction.md)（前工程: 直接費予算のインプット）
-- [目標KPI・資本配分方針の定義](target-kpi-capital-allocation.md)（前工程: 配賦後のP&LでKPI達成を評価）
+- [目標KPI・資本配分方針の定義](../1.1-中長期計画の策定/target-kpi-capital-allocation.md)（前工程: 配賦後のP&LでKPI達成を評価）
 - [予算の合意形成](budget-consensus-building.md)（後工程: 配賦後P&Lの承認）
-- [コスト構造の分解](../02-measure-explain/cost-structure-decomposition.md)（関連: 実績の配賦コスト差異分析）
-- [セグメント軸による分解](../02-measure-explain/segment-decomposition.md)（関連: セグメント別損益の配賦影響）
-- [配賦の実行](../02-measure-explain/allocation-execution.md)（関連: 月次実績における配賦の実行手順）
-- [部門別 P&L の確定](../02-measure-explain/departmental-pl-finalization.md)（関連: 配賦後の部門別損益確定）
-- [比較可能性の確保](../02-measure-explain/comparability-assurance.md)（関連: 配賦ルール変更時の比較可能性維持）
+- [コスト構造の分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（関連: 実績の配賦コスト差異分析）
+- [セグメント軸による分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/segment-decomposition.md)（関連: セグメント別損益の配賦影響）
+- [配賦の実行](../../02-measure-explain/2.1-管理会計の締め支援/2.1.2-会計から管理へのブリッジ/allocation-execution.md)（関連: 月次実績における配賦の実行手順）
+- [部門別 P&L の確定](../../02-measure-explain/2.1-管理会計の締め支援/2.1.3-管理会計実績の確定/departmental-pl-finalization.md)（関連: 配賦後の部門別損益確定）
+- [比較可能性の確保](../../02-measure-explain/2.1-管理会計の締め支援/2.1.1-実績データの取得と検証/comparability-assurance.md)（関連: 配賦ルール変更時の比較可能性維持）
