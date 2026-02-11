@@ -185,12 +185,12 @@
 ## 関連文書
 
 - [ゲート管理の運営](gate-management.md)（承認後の段階的管理・中止判断プロセス）
-- [価格・値引き・条件変更のインパクト試算](pricing-impact-simulation.md)（投資に伴う価格戦略変更の影響評価）
-- [OPEX最適化の分析](opex-optimization.md)（CAPEX投資によるOPEX削減効果の検証）
-- [資金繰り予測の作成](cash-flow-forecasting.md)（投資のキャッシュフローインパクト）
-- [ストレス時の優先順位策定](stress-priority-planning.md)（投資案件の延期・中止判断との接続）
-- [コスト構造の分解](../02-measure-explain/cost-structure-decomposition.md)（投資対象のコスト構造理解）
-- [通期着地への影響評価](../02-measure-explain/full-year-impact-assessment.md)（投資実行による当期業績への影響）
-- [感度テストの実施](../01-planning-forecasting/sensitivity-testing.md)（感度分析の方法論）
-- [複数シナリオの策定](../01-planning-forecasting/multi-scenario-development.md)（シナリオ分析の方法論）
-- [目標KPI・資本配分方針の設定](../01-planning-forecasting/target-kpi-capital-allocation.md)（投資枠・ハードルレートの全社方針）
+- [価格・値引き・条件変更のインパクト試算](pricing-impact-simulation.md)（投資に伴う価格戦略変更の影響評価） <!-- 未作成: 3.2 収益施策の試算・支援 -->
+- [OPEX最適化の分析](../3.3-コスト最適化・資源配分の分析/opex-optimization.md)（CAPEX投資によるOPEX削減効果の検証）
+- [資金繰り予測の作成](../3.4-キャッシュ・運転資本の管理/cash-flow-forecasting.md)（投資のキャッシュフローインパクト）
+- [ストレス時の優先順位策定](../3.4-キャッシュ・運転資本の管理/stress-priority-planning.md)（投資案件の延期・中止判断との接続）
+- [コスト構造の分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（投資対象のコスト構造理解）
+- [通期着地への影響評価](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（投資実行による当期業績への影響）
+- [感度テストの実施](../../01-planning-forecasting/1.4-シナリオ・感度の分析/sensitivity-testing.md)（感度分析の方法論）
+- [複数シナリオの策定](../../01-planning-forecasting/1.4-シナリオ・感度の分析/multi-scenario-development.md)（シナリオ分析の方法論）
+- [目標KPI・資本配分方針の設定](../../01-planning-forecasting/1.1-中長期計画の策定/target-kpi-capital-allocation.md)（投資枠・ハードルレートの全社方針）

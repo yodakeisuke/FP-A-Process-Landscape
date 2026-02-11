@@ -166,10 +166,10 @@
 
 - [部門別PLの確定](departmental-pl-finalization.md)（前工程: 承認対象となる部門別PLの確定）
 - [管理指標の集計](management-metrics-aggregation.md)（前工程: 承認対象となるKPIセットの集計）
-- [比較軸の選定と差異算出](variance-calculation.md)（後続工程: 確定実績に基づく予実差異の算出）
-- [重要性の判定と深掘り対象の絞り込み](materiality-screening.md)（後続工程: 差異の重要性判定とスクリーニング）
-- [ドライバの分類](driver-classification.md)（後続工程: 差異ドライバの分類）
-- [性質の判別](driver-nature-assessment.md)（後続工程: 一過性/構造的、コントロール可否の判定）
-- [通期着地への影響評価](full-year-impact-assessment.md)（後続工程: ランレート換算と通期影響の定量化）
-- [コスト構造の分解](cost-structure-decomposition.md)（後続工程: コスト差異の構造的分解）
-- [数量・価格・ミックスの分解](pvm-decomposition.md)（後続工程: 売上差異のPVM分解）
+- [比較軸の選定と差異算出](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（後続工程: 確定実績に基づく予実差異の算出）
+- [重要性の判定と深掘り対象の絞り込み](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/materiality-screening.md)（後続工程: 差異の重要性判定とスクリーニング）
+- [ドライバの分類](../../2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/driver-classification.md)（後続工程: 差異ドライバの分類）
+- [性質の判別](../../2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/driver-nature-assessment.md)（後続工程: 一過性/構造的、コントロール可否の判定）
+- [通期着地への影響評価](../../2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（後続工程: ランレート換算と通期影響の定量化）
+- [コスト構造の分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（後続工程: コスト差異の構造的分解）
+- [数量・価格・ミックスの分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/pvm-decomposition.md)（後続工程: 売上差異のPVM分解）

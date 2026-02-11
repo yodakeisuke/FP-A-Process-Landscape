@@ -200,9 +200,9 @@
 
 - [予算の構築](budget-construction.md)（前工程: 予算数値のインプット）
 - [配賦ルール・費目体系の設計](allocation-rules-account-structure.md)（前工程: 配賦後P&Lのインプット）
-- [目標KPI・資本配分方針の定義](target-kpi-capital-allocation.md)（前工程: KPI目標・資本配分枠の基準）
-- [事業シナリオの設計](business-scenario-design.md)（前工程: シナリオ前提条件の基準）
-- [比較軸の選定と差異算出](../02-measure-explain/variance-calculation.md)（後工程: 予算を基準とした差異分析）
-- [重要性の判定と深掘り対象の絞り込み](../02-measure-explain/materiality-screening.md)（後工程: 予実差異の重要性判定）
-- [フラッシュレポートの発行](../02-measure-explain/flash-report-issuance.md)（後工程: 予実の速報発信）
-- [事業部業績パッケージの作成](../02-measure-explain/bu-performance-package.md)（後工程: 予算基準での業績報告）
+- [目標KPI・資本配分方針の定義](../1.1-中長期計画の策定/target-kpi-capital-allocation.md)（前工程: KPI目標・資本配分枠の基準）
+- [事業シナリオの設計](../1.1-中長期計画の策定/business-scenario-design.md)（前工程: シナリオ前提条件の基準）
+- [比較軸の選定と差異算出](../../02-measure-explain/2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（後工程: 予算を基準とした差異分析）
+- [重要性の判定と深掘り対象の絞り込み](../../02-measure-explain/2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/materiality-screening.md)（後工程: 予実差異の重要性判定）
+- [フラッシュレポートの発行](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.2-定点観測と異常検知/flash-report-issuance.md)（後工程: 予実の速報発信）
+- [事業部業績パッケージの作成](../../02-measure-explain/2.4-経営レポートの作成・発信/2.4.3-レポートの配信と経営レビュー運営/bu-performance-package.md)（後工程: 予算基準での業績報告）

@@ -195,7 +195,7 @@
 
 - [用語・定義の統一](terminology-standardization.md)（前工程: 用語と定義の統一が整合性チェックの前提）
 - [見せ方の標準化](visualization-standardization.md)（並行工程: グラフ・テーブルの表現が数値と整合しているか）
-- [比較軸の選定と差異算出](variance-calculation.md)（関連: 差異計算結果の正確性確認）
-- [重要性の判定と深掘り対象の絞り込み](materiality-screening.md)（関連: スクリーニング結果の正確性確認）
-- [コスト構造の分解](cost-structure-decomposition.md)（関連: 分解結果の合算が総差異と一致するか）
-- [セグメント軸による分解](segment-decomposition.md)（関連: セグメント合計と全社値の一致確認）
+- [比較軸の選定と差異算出](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（関連: 差異計算結果の正確性確認）
+- [重要性の判定と深掘り対象の絞り込み](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/materiality-screening.md)（関連: スクリーニング結果の正確性確認）
+- [コスト構造の分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（関連: 分解結果の合算が総差異と一致するか）
+- [セグメント軸による分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/segment-decomposition.md)（関連: セグメント合計と全社値の一致確認）

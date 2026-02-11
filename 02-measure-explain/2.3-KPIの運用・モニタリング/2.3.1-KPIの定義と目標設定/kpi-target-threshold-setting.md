@@ -173,9 +173,9 @@
 
 - [KPIの選定と定義](kpi-selection-definition.md)（前工程: KPIの計算式・データソース・責任者の定義）
 - [KPI体系の構造化](kpi-hierarchy-structuring.md)（関連: カスケード先の部門・チーム目標との整合性）
-- [比較軸の選定と差異算出](variance-calculation.md)（後工程: KPIの予実差異の算出）
-- [重要性の判定と深掘り対象の絞り込み](materiality-screening.md)（後工程: KPIの予実差異のスクリーニング）
-- [ドライバの分類（実行要因、外部要因、計画要因）](driver-classification.md)（後工程: KPI未達時の要因分類）
-- [性質の判別（一過性/構造的、コントロール可否）](driver-nature-assessment.md)（後工程: KPI未達時の性質判定）
-- [通期着地への影響評価（ランレート換算、相殺差異・連鎖影響の識別）](full-year-impact-assessment.md)（後工程: KPI未達の通期影響評価）
-- [コスト構造の分解](cost-structure-decomposition.md)（関連: コスト系KPIの目標設定における固変構造の考慮）
+- [比較軸の選定と差異算出](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（後工程: KPIの予実差異の算出）
+- [重要性の判定と深掘り対象の絞り込み](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/materiality-screening.md)（後工程: KPIの予実差異のスクリーニング）
+- [ドライバの分類（実行要因、外部要因、計画要因）](../../2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/driver-classification.md)（後工程: KPI未達時の要因分類）
+- [性質の判別（一過性/構造的、コントロール可否）](../../2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/driver-nature-assessment.md)（後工程: KPI未達時の性質判定）
+- [通期着地への影響評価（ランレート換算、相殺差異・連鎖影響の識別）](../../2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（後工程: KPI未達の通期影響評価）
+- [コスト構造の分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（関連: コスト系KPIの目標設定における固変構造の考慮）

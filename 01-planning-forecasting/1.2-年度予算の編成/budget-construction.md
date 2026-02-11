@@ -209,10 +209,10 @@ CAPEX予算は支出時点のキャッシュフローと、その後の減価償
 
 ## 関連文書
 
-- [目標KPI・資本配分方針の定義](target-kpi-capital-allocation.md)（前工程: KPI・資本配分のインプット）
-- [事業シナリオの設計](business-scenario-design.md)（前工程: シナリオ・前提条件）
+- [目標KPI・資本配分方針の定義](../1.1-中長期計画の策定/target-kpi-capital-allocation.md)（前工程: KPI・資本配分のインプット）
+- [事業シナリオの設計](../1.1-中長期計画の策定/business-scenario-design.md)（前工程: シナリオ・前提条件）
 - [配賦ルール・費目体系の設計](allocation-rules-account-structure.md)（後工程: 共通費配賦・費目体系の整備）
 - [予算の合意形成](budget-consensus-building.md)（後工程: 予算の承認プロセス）
-- [コスト構造の分解](../02-measure-explain/cost-structure-decomposition.md)（関連: 実績評価時のコスト差異分解）
-- [数量・価格・ミックスの分解](../02-measure-explain/pvm-decomposition.md)（関連: 売上差異の分析）
-- [比較軸の選定と差異算出](../02-measure-explain/variance-calculation.md)（関連: 予実差異の算出手順）
+- [コスト構造の分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（関連: 実績評価時のコスト差異分解）
+- [数量・価格・ミックスの分解](../../02-measure-explain/2.2-予実差異の把握/2.2.2-差異の要因分解/pvm-decomposition.md)（関連: 売上差異の分析）
+- [比較軸の選定と差異算出](../../02-measure-explain/2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（関連: 予実差異の算出手順）

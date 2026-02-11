@@ -221,4 +221,4 @@
 
 - [調整仕訳の作成](adjustment-entries.md)（前工程: 配賦前の管理会計実績の準備）
 - [制度会計との差異照合](statutory-management-reconciliation.md)（後工程: 配賦を含むブリッジの整合性確認）
-- [コスト構造の分解](cost-structure-decomposition.md)（関連: 配賦後コストの固変分解・差異分析）
+- [コスト構造の分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（関連: 配賦後コストの固変分解・差異分析）

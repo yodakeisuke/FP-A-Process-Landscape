@@ -197,11 +197,11 @@ KPIと資本配分方針は設定して終わりではなく、年度を通じ�
 ## 関連文書
 
 - [事業シナリオの設計](business-scenario-design.md)（前工程: シナリオ・前提条件のインプット）
-- [予算の構築](budget-construction.md)（後工程: KPI・資本配分に基づく予算化）
-- [配賦ルール・費目体系の設計](allocation-rules-account-structure.md)（後工程: 予算の配賦構造への展開）
-- [予算の合意形成](budget-consensus-building.md)（後工程: 予算承認プロセス）
-- [KPI の選定と定義](../02-measure-explain/kpi-selection-definition.md)（関連: KPI定義の詳細手順）
-- [KPI 階層の構造化](../02-measure-explain/kpi-hierarchy-structuring.md)（関連: KPI階層設計の詳細）
-- [KPI の目標値・閾値の設定](../02-measure-explain/kpi-target-threshold-setting.md)（関連: 目標・閾値の詳細設計）
-- [KPI の定期レビュー](../02-measure-explain/kpi-periodic-review.md)（関連: 運用フェーズのKPIレビュー）
-- [比較軸の選定と差異算出](../02-measure-explain/variance-calculation.md)（関連: 実績評価時の差異分析）
+- [予算の構築](../1.2-年度予算の編成/budget-construction.md)（後工程: KPI・資本配分に基づく予算化）
+- [配賦ルール・費目体系の設計](../1.2-年度予算の編成/allocation-rules-account-structure.md)（後工程: 予算の配賦構造への展開）
+- [予算の合意形成](../1.2-年度予算の編成/budget-consensus-building.md)（後工程: 予算承認プロセス）
+- [KPI の選定と定義](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.1-KPIの定義と目標設定/kpi-selection-definition.md)（関連: KPI定義の詳細手順）
+- [KPI 階層の構造化](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.1-KPIの定義と目標設定/kpi-hierarchy-structuring.md)（関連: KPI階層設計の詳細）
+- [KPI の目標値・閾値の設定](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.1-KPIの定義と目標設定/kpi-target-threshold-setting.md)（関連: 目標・閾値の詳細設計）
+- [KPI の定期レビュー](../../02-measure-explain/2.3-KPIの運用・モニタリング/2.3.3-KPIの見直しと改廃/kpi-periodic-review.md)（関連: 運用フェーズのKPIレビュー）
+- [比較軸の選定と差異算出](../../02-measure-explain/2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（関連: 実績評価時の差異分析）

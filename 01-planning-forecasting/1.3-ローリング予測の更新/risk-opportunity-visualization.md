@@ -187,11 +187,11 @@
 ## 関連文書
 
 - [定期予測の更新](rolling-forecast-update.md)（前工程: ベースケースのフォーキャスト）
-- [複数シナリオの策定](multi-scenario-development.md)（後続: リスク・機会を組み合わせたシナリオ構築）
-- [感度テストの実施](sensitivity-testing.md)（後続: 主要ドライバの感度定量化）
-- [事業シナリオの設計](business-scenario-design.md)（関連: 中長期の事業シナリオとの整合）
-- [目標KPI・資本配分方針の定義](target-kpi-capital-allocation.md)（参照: KPI目標に対するリスク・機会の影響評価）
-- [性質の判別](../02-measure-explain/driver-nature-assessment.md)（参照: 差異の構造的/一過性判定がリスク・機会の識別に活用される）
-- [通期着地への影響評価](../02-measure-explain/full-year-impact-assessment.md)（参照: 通期影響の定量化手法）
-- [ドライバの分類](../02-measure-explain/driver-classification.md)（参照: 差異ドライバの分類がリスク・機会のカテゴリ化に活用される）
-- [可視化の標準化](../02-measure-explain/visualization-standardization.md)（参照: チャート・レポートの可視化基準）
+- [複数シナリオの策定](../1.4-シナリオ・感度の分析/multi-scenario-development.md)（後続: リスク・機会を組み合わせたシナリオ構築）
+- [感度テストの実施](../1.4-シナリオ・感度の分析/sensitivity-testing.md)（後続: 主要ドライバの感度定量化）
+- [事業シナリオの設計](../1.1-中長期計画の策定/business-scenario-design.md)（関連: 中長期の事業シナリオとの整合）
+- [目標KPI・資本配分方針の定義](../1.1-中長期計画の策定/target-kpi-capital-allocation.md)（参照: KPI目標に対するリスク・機会の影響評価）
+- [性質の判別](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/driver-nature-assessment.md)（参照: 差異の構造的/一過性判定がリスク・機会の識別に活用される）
+- [通期着地への影響評価](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/full-year-impact-assessment.md)（参照: 通期影響の定量化手法）
+- [ドライバの分類](../../02-measure-explain/2.2-予実差異の把握/2.2.3-ドライバの特定と影響度の評価/driver-classification.md)（参照: 差異ドライバの分類がリスク・機会のカテゴリ化に活用される）
+- [可視化の標準化](../../02-measure-explain/2.4-経営レポートの作成・発信/2.4.2-レポートの品質管理と標準化/visualization-standardization.md)（参照: チャート・レポートの可視化基準）

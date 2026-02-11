@@ -162,7 +162,7 @@
 
 - [制度会計の締め完了確認とデータ取得](closing-confirmation-data-acquisition.md)（前工程: データの取得と格納）
 - [比較可能性の確保](comparability-assurance.md)（並行工程: 科目体系変更等の影響記録）
-- [比較軸の選定と差異算出](variance-calculation.md)（後続分析: 検証済みデータを用いた差異算出）
-- [重要性の判定と深掘り対象の絞り込み](materiality-screening.md)（後続分析: 差異の重要性判定とスクリーニング）
-- [コスト構造の分解](cost-structure-decomposition.md)（後続分析: コスト差異の構造分解）
-- [セグメント軸による分解](segment-decomposition.md)（後続分析: セグメント別の差異配分）
+- [比較軸の選定と差異算出](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/variance-calculation.md)（後続分析: 検証済みデータを用いた差異算出）
+- [重要性の判定と深掘り対象の絞り込み](../../2.2-予実差異の把握/2.2.1-差異の算出とスクリーニング/materiality-screening.md)（後続分析: 差異の重要性判定とスクリーニング）
+- [コスト構造の分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/cost-structure-decomposition.md)（後続分析: コスト差異の構造分解）
+- [セグメント軸による分解](../../2.2-予実差異の把握/2.2.2-差異の要因分解/segment-decomposition.md)（後続分析: セグメント別の差異配分）
